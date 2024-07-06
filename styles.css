@@ -287,13 +287,13 @@ footer .social-media a:hover {
 
     header nav ul {
         flex-direction: column;
-        padding: 10px;
+        padding: 0;
     }
  header a{
 display:block;
 }
     header nav ul li {
-        margin: 20px 0;
+        margin: 10px 0;
     }
 
     .about-content img {
