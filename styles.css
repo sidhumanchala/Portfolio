@@ -289,7 +289,7 @@ footer .social-media a:hover {
         flex-direction: column;
         padding: 0;
     }
-a{
+ header a{
 display:block;
 }
     header nav ul li {
