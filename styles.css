@@ -329,9 +329,7 @@ padding-top:0px;
     .skills-item p {
         margin-bottom: 30px;
     }
- footer .social-media {
-        flex-direction: column;
-    }
+
 
     footer .social-media a {
         margin: 10px 0;
