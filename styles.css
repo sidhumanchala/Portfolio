@@ -314,8 +314,8 @@ padding-top:0px;
 }
 
  .project ,.internship{
-        width: calc(45% - 40px); /* Increase size for mobile view */
-        margin: 10px auto; /* Center projects on mobile */
+        width: calc(45% - 32px); /* Increase size for mobile view */
+        margin: 5px auto; /* Center projects on mobile */
     }
 .education-list, .skills-list {
         width: 100%;
